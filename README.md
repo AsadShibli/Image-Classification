@@ -2,7 +2,8 @@
 
 This repository provides a comprehensive workflow for building and evaluating various deep learning models on an imbalanced image dataset. The primary goal is to develop an effective classification model that addresses the challenges posed by the imbalanced nature of the data.
 
-## Kaggle Dataset : https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
+## Kaggle Dataset : 
+https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
 ## Demo 
 
 ![image](https://github.com/AsadShibli/Image-Classification/assets/119102237/b2ad0471-cdab-47d1-b383-9d19bf1b2a5f)
