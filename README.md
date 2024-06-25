@@ -23,7 +23,7 @@ Given the imbalanced nature of the dataset, the model performance is evaluated u
 - ROC AUC Curve
 
 ## Deployment
-After identifying the optimal model, it is deployed using [Gradient](https://gradient.run/). Additionally, users can upload the model to [Hugging Face Spaces](https://huggingface.co/spaces) for broader accessibility.
+After identifying the optimal model, it is deployed using [Gradio](https://www.gradio.app/). Additionally, users can upload the model to [Hugging Face Spaces](https://huggingface.co/spaces) for broader accessibility.
 
 ## Contributing
 Contributions are welcomed and encouraged for further experimentation and improvements. Feel free to fork this repository and submit pull requests.
